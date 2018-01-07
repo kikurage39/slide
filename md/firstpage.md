@@ -58,13 +58,13 @@
 
 ## サーバー構成
 ### before
-![image](../img/before.jpg)  
+![image](../image/before.jpg)  
 
 ---
 
 ## サーバー構成
 ### after
-![image](../img/after.jpg)  
+![image](../image/after.jpg)  
 
 ---
 
