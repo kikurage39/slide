@@ -58,13 +58,13 @@
 
 ## サーバー構成
 ### before
-![image](../image/before.jpg)  
+![image](https://yuusuke13.github.io/slide/image/before.jpg)  
 
 ---
 
 ## サーバー構成
 ### after
-![image](../image/after.jpg)  
+![image](https://yuusuke13.github.io/slide/image/after.jpg)  
 
 ---
 
